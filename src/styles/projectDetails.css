@@ -1,0 +1,31 @@
+/* projectDetails.css */
+.container {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.pageTitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.loading {
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.detailItem {
+    margin-bottom: 5px;
+}
+
+.backLink {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: blue;
+}

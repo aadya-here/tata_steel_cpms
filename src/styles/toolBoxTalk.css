@@ -1,0 +1,38 @@
+/* toolBoxTalk.css */
+
+.container {
+    padding: 20px;
+    background-color: #F4F4FF;
+}
+
+.form {
+    max-width: 600px;
+    margin: auto;
+}
+
+.checkbox-container {
+    margin-bottom: 20px;
+}
+
+.checkbox {
+    margin-bottom: 10px;
+}
+
+.checklist h3 {
+    font-size: 16px;
+    margin: 20px 0 10px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
